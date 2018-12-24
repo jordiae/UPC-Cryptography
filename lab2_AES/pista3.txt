@@ -1,0 +1,9 @@
+clave: 8 bytes iguales y 8 bytes iguales
+
+128 bits: de cada 8 el primer bit es un 0 (digits, lletres)
+
+
+14 bits lliures
+
+Espai de cerca: de 2^14
+0yyyyyyy0yyyyyyy...0zzzzzzzz0zzzzzzzz

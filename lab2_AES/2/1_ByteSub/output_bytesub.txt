@@ -1,0 +1,4 @@
+AES OK
+C == Ci ^ Cj ^ Cij ? False
+AES ByteSub = Id
+C == Ci ^ Cj ^ Cij ? True

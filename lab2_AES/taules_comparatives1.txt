@@ -1,0 +1,56 @@
+Preloading tables for GF_product_t
+
+
+GF_product_p(a,0x02) vs GF_product_t(a,0x02)
+Without tables:  0.005804488999729074
+With tables:     0.0007589480001115589
+
+GF_product_p(a,0x03) vs GF_product_t(a,0x03)
+Without tables:  0.005917185999805952
+With tables:     0.0007449539998560795
+
+GF_product_p(a,0x09) vs GF_product_t(a,0x09)
+Without tables:  0.006123729000137246
+With tables:     0.0007814099999450264
+
+GF_product_p(a,0x0B) vs GF_product_t(a,0x0B)
+Without tables:  0.00600605399995402
+With tables:     0.0007697420001022692
+
+GF_product_p(a,0x0D) vs GF_product_t(a,0x0D)
+Without tables:  0.0059812419999616395
+With tables:     0.0007847200004107435
+
+GF_product_p(a,0x0E) vs GF_product_t(a,0x0E)
+Without tables:  0.006025843999850622
+With tables:     0.0007838149999770394
+
+
+
+
+Without preloading tables for GF_product_t
+
+
+GF_product_p(a,0x02) vs GF_product_t(a,0x02)
+Without tables:  0.005798616999982187
+With tables:     0.00693008700000064
+
+GF_product_p(a,0x03) vs GF_product_t(a,0x03)
+Without tables:  0.005760985000051733
+With tables:     0.00703547900002377
+
+GF_product_p(a,0x09) vs GF_product_t(a,0x09)
+Without tables:  0.0058537299996714864
+With tables:     0.006752858000254491
+
+GF_product_p(a,0x0B) vs GF_product_t(a,0x0B)
+Without tables:  0.00645168500022919
+With tables:     0.006849485999737226
+
+GF_product_p(a,0x0D) vs GF_product_t(a,0x0D
+Without tables:  0.00606105299993942
+With tables:     0.007077024999944115
+
+GF_product_p(a,0x0E) vs GF_product_t(a,0x0E)
+Without tables:  0.006008710000060091
+With tables:     0.007390568999653624 
