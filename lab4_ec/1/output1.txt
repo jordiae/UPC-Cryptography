@@ -1,0 +1,8 @@
+b): Ordre primer?
+True
+c): El punt forma part de la corba si en compleix l'equacio (obtenim 0):
+0
+d) L'ordre de la corba es:
+115792089210356248762697446949407573529996955224135760342422259061068512044369
+e) Verificar la firma:
+True
