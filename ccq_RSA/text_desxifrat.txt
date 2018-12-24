@@ -1,0 +1,1 @@
+In 1977 Martin Gardner published an encoded message in his Mathematical Games of Scientific American using the RSA method, with a $100 reward for the first person who would decode it. The original message was: "the magic words are squeamish ossifrage"
